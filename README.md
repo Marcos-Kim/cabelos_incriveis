@@ -245,5 +245,5 @@ ALTER TABLE detalhe_venda ADD CONSTRAINT detalhe_venda_idservico_servico_idservi
 ˋˋˋ
 ## Modelo relacional
 
-<img src="modelo_relacional_cab_incr.wmb">
+<img src="modelo_relacional_cab_incr.png">
 
