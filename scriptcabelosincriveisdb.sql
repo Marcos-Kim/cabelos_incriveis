@@ -1,3 +1,6 @@
+create database cabelosincriveisdb;
+use cabelosincriveis;
+
 DROP TABLE IF EXISTS endereco;
 DROP TABLE IF EXISTS contato;
 DROP TABLE IF EXISTS servico;
