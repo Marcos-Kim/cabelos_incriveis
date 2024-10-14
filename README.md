@@ -85,4 +85,4 @@ o Funcionários
 
 ### Modelo conceitual:
 
-<img src="modelo_logico_cabelos_incriveis.png">
+<img src="modelo_conceitual_cabelos_incriveis.png">
